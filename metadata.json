@@ -1,0 +1,6 @@
+{
+  "name": "CURIO - Rare Collectibles & Auction Marketplace",
+  "description": "Premier auction marketplace for rare collectibles, certified trading cards, historical coins, luxury horology, and fine memorabilia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
